@@ -5,3 +5,5 @@ run instructions
 3 npm run install
 4 npm run build
 5 npm run start
+
+have fun!
